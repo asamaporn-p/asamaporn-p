@@ -1,4 +1,7 @@
-### Hi my name is Jajah 💖
+### Hi I'm Jajah 💖
+
+Hello again ~ My name is Asamaporn Pladsri. I am currently studying at School of Information Technology, King Mongkut's University of Technology Thonburi.
+I am sophomore in IT major. I practicing coding, becuz I want to be a programmer or something that I can do it well. But In fact I want to be millionaire, I don't want to study. I'm so fuckin' lazy. 😢😭
 
 [![Jajah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jajahz&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
