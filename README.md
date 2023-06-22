@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Asamaporn Pladsri 💖</h1>
-<h3 align="center">I am junior at School of Information Technology, King Mongkut's University of Technology Thonburi. I am junior in IT major.</h3>
+<h3 align="center">I am senior at School of Information Technology, King Mongkut's University of Technology Thonburi. I am senior in IT major.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jajahz&label=Profile%20views&color=ffafcc&style=flat" alt="jajahz" /> </p>
 
