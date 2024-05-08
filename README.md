@@ -3,7 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asamaporn-p&label=Profile%20views&color=ffafcc&style=flat" alt="asamaporn-p" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asamaporn-p" alt="asamaporn-p" /></a> </p>
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asamaporn-p" alt="asamaporn-p" /></a> 
+</p>
 
 - 🌱 I’m currently learning **Javascript, VueJS, ReactJS, TailwindCSS, C#, WordPress**
 
