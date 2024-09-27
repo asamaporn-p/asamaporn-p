@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Asamaporn Pladsri 💖</h1>
-<h3 align="center">I am fresh graduate in IT major; SIT, KMUTT.</h3>
+<h3 align="center">I am fresh graduated in IT major; SIT, KMUTT.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asamaporn-p&label=Profile%20views&color=ffafcc&style=flat" alt="asamaporn-p" /> </p>
 
