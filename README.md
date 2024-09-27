@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Asamaporn Pladsri 💖</h1>
-<h3 align="center">I am senior at IT major in SIT, KMUTT.</h3>
+<h3 align="center">I am fresh graduate in IT major; SIT, KMUTT.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asamaporn-p&label=Profile%20views&color=ffafcc&style=flat" alt="asamaporn-p" /> </p>
 
@@ -7,13 +7,13 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asamaporn-p" alt="asamaporn-p" /></a> 
 </p>
 
-- 🌱 I’m currently learning **Javascript, VueJS, ReactJS, TailwindCSS, C#, WordPress**
+- 🌱 I’m currently learning **Javascript, VueJS, ReactJS, TailwindCSS, C#, WordPress, Java**
 
 - 📫 How to reach me **asamaporn.plad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/asamaporn-pladsri-340938223" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asamaporn-p" height="15" width="20" /><span> : Asamaporn Pladsri</span></a>
+<a href="https://linkedin.com/in/asamaporn-pladsri-340938223" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asamaporn-p" height="15" width="20" /><span>: Asamaporn Pladsri</span></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
