@@ -7,7 +7,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asamaporn-p" alt="asamaporn-p" /></a> 
 </p>
 
-- 🌱 I’m currently learning **Javascript, VueJS, ReactJS, TailwindCSS, C#, WordPress, Java**
+- 🌱 I’m currently using **Javascript, VueJS, Java, SpringBoot, CSS, Shell**
 
 - 📫 How to reach me **asamaporn.plad@gmail.com**
 
